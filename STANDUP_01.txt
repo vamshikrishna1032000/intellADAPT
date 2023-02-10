@@ -5,6 +5,7 @@ General Update and Intro
 ========================
 
 Teams assembled and introduced, selected Project Leader: Ganesh Damisetty
+Team members: Ganesh Damisetty, Vamshi Krishna, Waikit Lam, Brian
 Talked to TA Mahsa
 Voted to use Github Issues to keep track of Working Packages/Tasks..
 Created Github repo: https://github.com/vamshikrishna1032000/intellADAPT
