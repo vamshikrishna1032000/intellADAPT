@@ -1,0 +1,42 @@
+# STANDUP 01 - 2/9/2023 TEAM intellADAPT
+
+
+General Update and Intro
+========================
+
+Teams assembled and introduced, selected Project Leader: Ganesh Damisetty
+Talked to TA Mahsa
+Voted to use Github Issues to keep track of Working Packages/Tasks..
+Created Github repo: https://github.com/vamshikrishna1032000/intellADAPT
+...
+
+Draft of Requirements
+=====================
+MAIN: We will need to build a progressive web application, design a UI
+The software needs to support
+* EEG Headband
+..
+
+For technologies, we propose
+* Reacts, redux, bootstrap/materialUI for CSS.
+* Node socket io, mongoDB/Firebase.
+
+
+
+
+
+Current Questions / Problems / Something you need
+=================================================
+* What sort of features we need?
+* Does the web app needs to have a backend?
+* Do we communicate with some sort of API to display the information?
+* Can we contact the client for the above questions?
+...
+
+
+List of Working Packages with responsible Student and Completion Dates
+======================================================================
+* Explore Technology React, Node [Ganesh Damisetty] by 2/17
+* Explore other technologies for a progressive web app[Vamshi] by 2/15
+* Create Project Logo [Waikit Lam and Brian] by 2/17
+* ...
